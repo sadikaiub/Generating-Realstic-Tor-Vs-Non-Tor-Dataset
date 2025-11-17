@@ -126,7 +126,7 @@ sudo ufw enable
 sudo ufw status numbered
 
 
-Dataset Overview: To generate the dataset we capture different type of traffic from different type of application. Such as Web Browsing, Video Streaming, File Transfer, Video Conference, VOIP, Instant Message. For Web Browsing and Video Streaming we used Selenium Web Driver which allows us to write scripts in Python that can open websites, click buttons, fill forms, and interact with web elements just like a real user. We used chrome browser for browsing and streaming. 
+Dataset Overview: To generate the dataset we capture different type of traffic from different type of application. Such as Web Browsing, Video Streaming, File Transfer, Video Conference, VOIP, Instant Message. For Web Browsing and Video Streaming we used Selenium Web Driver which allows us to write scripts in Python that can open websites, click buttons and interact with web elements just like a real user. We used chrome browser for browsing and streaming. 
 
 
  
